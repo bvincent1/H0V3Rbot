@@ -1,0 +1,16 @@
+{
+  "name": "h0verb0t",
+  "version": "1.0.0",
+  "description": "serverless phantomjs scraper bot",
+  "main": "handler.js",
+  "dependencies": {
+    "horseman": "^0.2.1",
+    "phantomjs-prebuilt": "^2.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Vincent",
+  "license": "ISC"
+}
